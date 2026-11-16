@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="456" viewBox="0 0 1200 456" role="img" aria-labelledby="t d">
+<title id="t">Commerce Reel Forge · 商片智造</title><desc id="d">AI product analysis, buyer insights, storyboard and batch video production.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b101b"/><stop offset="1" stop-color="#101a28"/></linearGradient>
+<linearGradient id="edge"><stop stop-color="#67e8d1"/><stop offset="1" stop-color="#78a6ff"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#1b695d" stop-opacity=".35"/><stop offset="1" stop-color="#1b695d" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#a4bbd2" stroke-opacity=".075"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="454" rx="26" fill="url(#bg)" stroke="#304153" stroke-width="2"/>
+<rect x="2" y="2" width="1196" height="452" rx="25" fill="url(#grid)"/>
+<ellipse cx="916" cy="167" rx="284" ry="165" fill="url(#glow)"/>
+<g font-family="Inter, Segoe UI, Microsoft YaHei, PingFang SC, sans-serif">
+<path d="M56 59h24" stroke="#67e8d1" stroke-width="3" stroke-linecap="round"/>
+<text x="94" y="65" fill="#9db0c9" font-size="15" font-weight="700" letter-spacing="3">AI COMMERCE VIDEO WORKFLOW</text>
+<text x="54" y="151" fill="#f0f5ff" font-size="51" font-weight="750">Commerce Reel</text>
+<text x="54" y="219" fill="url(#edge)" font-size="65" font-weight="750">Forge.</text>
+<text x="56" y="270" fill="#cbd6e6" font-size="27" font-weight="650">商片智造</text>
+<text x="56" y="313" fill="#a5b5ce" font-size="20">从商品资料，自动走到一批带货短片</text>
+<path d="M56 362h1088" stroke="#34465d"/>
+<text x="56" y="405" fill="#a5b5ce" font-size="15" font-weight="600" letter-spacing="2">PRODUCT INPUT  /  STORYBOARD  /  BATCH OUTPUT</text>
+<text x="1144" y="405" text-anchor="end" fill="#9dc7c3" font-size="15" font-weight="650" letter-spacing="2">WINDOWS DESKTOP</text>
+<g fill="#111b2b" stroke="#3a5260">
+<rect x="610" y="52" width="254" height="128" rx="17"/><rect x="886" y="52" width="258" height="128" rx="17"/>
+<rect x="610" y="201" width="254" height="128" rx="17"/><rect x="886" y="201" width="258" height="128" rx="17"/>
+</g>
+<g font-size="13" letter-spacing="2" font-weight="700" fill="#80e6d5"><text x="633" y="84">01 / PRODUCT</text><text x="909" y="84">02 / BUYER</text><text x="633" y="233">03 / STORYBOARD</text><text x="909" y="233">04 / DELIVERY</text></g>
+<g font-size="23" font-weight="700" fill="#edf4ff"><text x="633" y="122">AI 智能分析产品</text><text x="909" y="122">AI 提炼痛点</text><text x="633" y="271">AI 写脚本与分镜</text><text x="909" y="271">批量生成成片</text></g>
+<g font-size="15" fill="#a5b5ce"><text x="633" y="151">用途 · 外观 · 卖点</text><text x="909" y="151">场景 · 顾虑 · 购买动机</text><text x="633" y="300">钩子 · 动作 · 镜头 · 台词</text><text x="909" y="300">真人 / 3D · 素材管理</text></g>
+</g>
+</svg>
